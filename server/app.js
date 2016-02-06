@@ -30,3 +30,7 @@ if (!module.parent) {
   console.log('Listening on', app.get('port'));
 }
 
+// app.post('.',function (req, res) {
+//   console.log('we were here');
+//   res.end();
+// });
